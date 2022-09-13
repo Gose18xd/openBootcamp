@@ -1,1 +1,5 @@
-#Segunda tarea
+#Primera tarea
+#
+saludo = ('Hola mundo!')
+
+print(saludo)
