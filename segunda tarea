@@ -3,3 +3,13 @@
 saludo = ('Hola mundo!')
 
 print(saludo)
+##
+
+#Segunda tarea
+nombre = ('Jose lara ')
+edad = 22
+nacionalidad = ('Guatemalteco')
+
+print(nombre)
+print(edad)
+print(nacionalidad)
